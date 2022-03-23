@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="temperature">Temp:</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="date_and_time">Date and time:</string>
+    <string name="back">Back</string>
+    <string name="city_of">City of:</string>
+</resources>
